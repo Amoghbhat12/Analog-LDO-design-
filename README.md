@@ -19,6 +19,9 @@ The design consists of four main blocks:
 - **Resistive Feedback Network** — sets the output voltage via R1/R2 divider
 - **Miller (RC–CC) Frequency Compensation** — stabilizes the loop across process corners
 
+## Schematic
+![Schematic](images/schematic.png)
+
   ## Design Specifications
 
 | Parameter | Target Value |
