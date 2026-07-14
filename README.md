@@ -55,7 +55,7 @@ All simulations were performed in Cadence Virtuoso, including:
 - **Layout** — transistor-level layout following 180nm design rules
 
 ## AC Analysis — Loop Gain and Phase
-![Loop Gain](images/loop gain and phase detail.jpg)
+![Loop Gain](images/loop_gain.png)
 
 
 ## Key Design Decisions
