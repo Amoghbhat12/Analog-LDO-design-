@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      pkp26ec097
+HostName                       CICS9.kletech.ac.in
+ProcessIdentifier              20480
+ProcessCreationTime_UTC        1776751676
+ProcessCreationTime_Readable   Tue Apr 21 11:37:56 2026 IST
+AppIdentifier                  /cad_area/install/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/pkp26ec097/prakalp26_class1/SevenPackOpAmp/physConfig/physExpand.cfg
+TimeEditLocked                 Tue Apr 21 11:40:43 2026 IST
