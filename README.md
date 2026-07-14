@@ -20,7 +20,7 @@ The design consists of four main blocks:
 - **Miller (RC–CC) Frequency Compensation** — stabilizes the loop across process corners
 
 ## Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/schematic.jpg)
 
   ## Design Specifications
 
