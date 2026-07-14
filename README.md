@@ -53,6 +53,11 @@ All simulations were performed in Cadence Virtuoso, including:
 - **DC Analysis** — V_OUT vs. V_IN sweep
 - **Load Regulation** — V_OUT vs. I_LOAD (0–10 mA)
 - **Layout** — transistor-level layout following 180nm design rules
+
+## AC Analysis — Loop Gain and Phase
+![Loop Gain](images/loop gain and phase detail.jpg)
+
+
 ## Key Design Decisions
 
 - A **diode-connected NMOS load** in the first amplifier stage was chosen for simplicity while still meeting the gain budget.
